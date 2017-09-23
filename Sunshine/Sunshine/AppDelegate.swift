@@ -8,7 +8,7 @@
 
 import UIKit
 import CoreData
-
+//Intento1
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
